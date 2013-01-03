@@ -1,0 +1,12 @@
+[submodule "enyo"]
+	path = enyo
+	url = /Applications/MAMP/htdocs/mvc-samples-todos-archive/enyo
+[submodule "lib/layout"]
+	path = lib/layout
+	url = /Applications/MAMP/htdocs/mvc-samples-todos-archive/lib/layout
+[submodule "lib/mvc"]
+	path = lib/mvc
+	url = /Applications/MAMP/htdocs/mvc-samples-todos-archive/lib/mvc
+[submodule "lib/onyx"]
+	path = lib/onyx
+	url = /Applications/MAMP/htdocs/mvc-samples-todos-archive/lib/onyx
