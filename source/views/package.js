@@ -1,0 +1,15 @@
+enyo.depends(
+    "TodoHeader.js",
+    "TodoDetail.js",
+	"TodoPanel.js",
+    "TodosHeader.js",
+    "TodosRow.js",
+    "TodosFilter.js",
+    "TodosPanel.js",
+    "ListsHeader.js",
+    "ListsRow.js",
+    "ListsFooter.js",
+    "ListsPanel.js",
+    "EmptyTodoList.js",
+    "AppView.js"
+);

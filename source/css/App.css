@@ -1,0 +1,60 @@
+/* Onyx */
+.onyx-input-decorator {
+    padding: 3px;
+    border: 0px;
+}
+.onyx-item {
+    background: #eee;
+}
+.onyx-input {
+    margin-left: 10px;
+}
+.enyo-fittable-columns-layout.enyo-stretch >.onyx-grabber {
+    height: 27px;
+}
+.onyx-toolbar .onyx-input {
+    background: transparent;
+    border: 0px;
+    color: #fff;
+    font-family: 'Helvetica Neue', 'Nimbus Sans L', Arial, sans-serif;
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+}
+/* App */
+.logo {
+	height: 28px;
+}
+.todoapp-toolbar {
+	min-height: 57px;
+}
+.todoapp-checkbox {
+	height: 32px;
+}
+.todoapp-remove-icon {
+	/*display: none;*/
+	float: right;
+}
+.todoapp-row {
+    border-bottom: 1px solid #eee;
+    padding: 12px;
+    background: transparent;
+    color: #000;
+    height: 32px;
+}
+.todoapp-row.selected {
+    background: #35A8EE;
+}
+.todoapp-row.done {
+    text-decoration: line-through;
+}
+.todoapp-padded {
+    padding: 10px;
+}
+.editable {
+    background: white;
+    border: 1px solid;
+    border-radius: 3px;
+    padding: 4px;
+    color: #333;
+}

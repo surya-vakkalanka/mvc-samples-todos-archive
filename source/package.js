@@ -1,0 +1,12 @@
+enyo.depends(
+	"$lib/layout",
+	"$lib/onyx",
+	"$lib/mvc",
+	"$lib/mvc/foss/backbone/examples/backbone-localstorage.js",
+	"css",
+	"models",
+	"controllers",
+	"views",
+	"apps",
+	"start.js"
+);
